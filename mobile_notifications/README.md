@@ -23,7 +23,8 @@ fun printNotificationSummary(numberOfMessages: Int) {
 Complete the `printNotificationSummary()` function so that the program prints these lines:<br>
 
 
-> You have 51 notifications.
-> Your phone is blowing up! You have 99+ notifications.
-[!IMPORTANT]
+> You have 51 notifications.<br>
+> Your phone is blowing up! You have 99+ notifications.<br>
+
+![IMPORTANT]
 > Have fun**!!**
