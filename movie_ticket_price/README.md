@@ -1,5 +1,5 @@
  <h1> <b>Movie Ticket Problem</b></h1> <br>
- [source](https://developer.android.com/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems#2)<br>
+
 Movie tickets are typically priced differently based on the age of moviegoers.<br>
 
 In the initial code provided in the following code snippet, write a program that calculates these age-based ticket prices:<br>
@@ -27,9 +27,7 @@ fun ticketPrice(age: Int, isMonday: Boolean): Int {
     // Fill in the code.
 }
 ```
-Complete the *ticketPrice()* function so that the program prints these lines:
-[!IMPORTANT]
-Use Kotlin [Playground](https://play.kotlinlang.org/)
+Complete the *ticketPrice()* function so that the program prints these lines:<br>Use Kotlin [Playground](https://play.kotlinlang.org/)
 
 >The movie ticket price for a person aged 5 is $15.<br>
 >The movie ticket price for a person aged 28 is $25.<br>
