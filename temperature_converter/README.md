@@ -9,7 +9,7 @@ In the initial code provided in the following code snippet, write a program that
 > Kelvin to Celsius: ° C = K - 273.15<br>
 > Fahrenheit to Kelvin: K = 5/9 (° F - 32) + 273.15
 
-Note that the _String.format("%.2f", /* measurement */ )_ method is used to convert a number into a String type with 2 decimal places.
+Note that the `String.format("%.2f", /* measurement */ )` method is used to convert a number into a String type with 2 decimal places.
 
 ```kotlin
 fun main() {
