@@ -29,7 +29,7 @@ fun ticketPrice(age: Int, isMonday: Boolean): Int {
 ```
 Complete the *ticketPrice()* function so that the program prints these lines:
 [!IMPORTANT]
-> Use Kotlin [Playground](https://play.kotlinlang.org/)
+Use Kotlin [Playground](https://play.kotlinlang.org/)
 
 >The movie ticket price for a person aged 5 is $15.<br>
 >The movie ticket price for a person aged 28 is $25.<br>
