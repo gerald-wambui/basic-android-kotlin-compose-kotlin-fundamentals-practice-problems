@@ -26,5 +26,4 @@ Complete the `printNotificationSummary()` function so that the program prints th
 > You have 51 notifications.<br>
 > Your phone is blowing up! You have 99+ notifications.<br>
 
-![IMPORTANT]
-> Have fun**!!**
+
